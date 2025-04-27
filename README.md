@@ -40,7 +40,7 @@
 
 ## 🚀 Current Project
 
-### **Project Manager** *(Work in Progress)*  
+### [Project Manager](https://github.com/HayQacz/ProjectManager) *(Work in Progress)*  
 📋 A web application for managing tasks, projects, and team collaboration.  
 
 → **Tech Stack:**  
